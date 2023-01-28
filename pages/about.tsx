@@ -16,10 +16,10 @@ export default function About() {
           <h2>Links</h2>
           <ul>
             <li>
-              Twitter: <a href="https://twitter.com/leeerob">@leeerob</a>
+              Twitter: <a href="https://twitter.com/HQdeepak">@HQdeepak</a>
             </li>
             <li>
-              GitHub: <a href="https://github.com/leerob">@leerob</a>
+              GitHub: <a href="https://github.com/dipakkr">@dipakkr</a>
             </li>
             <li>
               Website: <Link href="https://leerob.io">https://leerob.io</Link>

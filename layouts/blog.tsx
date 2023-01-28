@@ -68,7 +68,7 @@ export default function BlogLayout({
             </a>
             {` • `}
             <a
-              href="https://github.com/leerob/leerob.io/issues"
+              href="https://github.com/dipakkr"
               target="_blank"
               rel="noopener noreferrer"
             >
